@@ -1,7 +1,16 @@
-### Hi there 👋
+### Hi, I am Michael 👋
 
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, PHP, HTML, CSS, Java, Mysql, Mongo, Postgresql,
+  tools: [React, Redux, Node, JavaFX,
+}
+```
 <!--
 **Michael-Robi/Michael-Robi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Workshop
 
 Here are some ideas to get you started:
 
